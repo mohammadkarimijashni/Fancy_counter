@@ -46,8 +46,7 @@ A simple and interactive counter web application built with **HTML**, **CSS**, a
 
 ![Image 2025-01-30 at 11 03](https://github.com/user-attachments/assets/5d2538b7-4ed0-488c-9bd7-850214fe9e56)
 ![Image 2025-01-30 at 11 03 2](https://github.com/user-attachments/assets/21eb66f6-5191-49a6-b602-6eeddf59198a)
-
-
+![Screen Recording 2025-01-30 at 11 05 02](https://github.com/user-attachments/assets/9de46f67-e91d-4b64-bbee-098b0376c377)
 
 ## Author
 
